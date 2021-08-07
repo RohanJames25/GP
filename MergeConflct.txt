@@ -1,1 +1,3 @@
 Merge Conflict file
+
+master text addition
