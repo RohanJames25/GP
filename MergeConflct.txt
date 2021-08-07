@@ -1,3 +1,3 @@
 Merge Conflict file
 
-Development 2 text addition
+master text addition
